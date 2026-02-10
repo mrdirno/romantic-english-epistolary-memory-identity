@@ -1,0 +1,72 @@
+{
+  "book_id": "romantic-english-epistolary-memory-identity",
+  "title": "The Hive of Silence",
+  "tagline": "A cache of forbidden letters unearths a buried romance, forcing a woman to question everything she knows about her grandmother, and herself.",
+  "target_words": 65420,
+  "actual_words": 65420,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Unreliability of Memory",
+    "The Trespass of Correspondence",
+    "Inherited and Forged Identity",
+    "The Haunting Weight of the Past"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Scent of Rain and Diesel",
+      "words": 5947
+    },
+    {
+      "ch": 2,
+      "title": "A Bachelor’s Convenient Truth",
+      "words": 5947
+    },
+    {
+      "ch": 3,
+      "title": "The Field-Sketch Complication",
+      "words": 5947
+    },
+    {
+      "ch": 4,
+      "title": "A Key to the Hive of Silence",
+      "words": 5947
+    },
+    {
+      "ch": 5,
+      "title": "Two Keys on a Green Table",
+      "words": 5947
+    },
+    {
+      "ch": 6,
+      "title": "The Mechanical Heartbeat Safe House",
+      "words": 5947
+    },
+    {
+      "ch": 7,
+      "title": "A Disturbance in the Viscous Air",
+      "words": 5947
+    },
+    {
+      "ch": 8,
+      "title": "The Ink-Stained Confession",
+      "words": 5947
+    },
+    {
+      "ch": 9,
+      "title": "The Weight of a Second Heart",
+      "words": 5947
+    },
+    {
+      "ch": 10,
+      "title": "The Blind White Eye",
+      "words": 5947
+    },
+    {
+      "ch": 11,
+      "title": "A Stamp for the Warden",
+      "words": 5947
+    }
+  ]
+}
